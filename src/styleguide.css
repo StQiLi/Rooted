@@ -1,0 +1,14 @@
+:root {
+    --logo-font-family: "Inter-Regular", Helvetica;
+    --logo-font-size: 12px;
+    --logo-font-style: normal;
+    --logo-font-weight: 400;
+    --logo-letter-spacing: 0px;
+    --logo-line-height: normal;
+    --title-font-family: "Inter-Regular", Helvetica;
+    --title-font-size: 12px;
+    --title-font-style: normal;
+    --title-font-weight: 400;
+    --title-letter-spacing: 0px;
+    --title-line-height: normal;
+  }

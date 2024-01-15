@@ -1,6 +1,7 @@
 # Rooted - Simplifying Job Searching
 
-JobFinder is a React application designed to make job searching easier by providing a user-friendly interface that guides users through different job pathways.
+
+Rooted is a React application designed to make job searching easier by providing a user-friendly interface that guides users through different job pathways. 
 
 ## Features
 
